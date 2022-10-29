@@ -1,0 +1,29 @@
+h4{
+    color: blue;
+}
+p{
+    color: aqua;
+    background-color: yellow;
+}
+h1{
+    color: green;
+}
+h3{
+    color: brown;
+}
+#color-rojo{
+    color:red;
+}
+.viernes{
+    color: blueviolet;
+}
+body{
+    background-image: url(fff.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+}
+.autor{
+    color:darkmagenta;
+    background-color: dimgrey;
+}
